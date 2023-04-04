@@ -9,8 +9,8 @@
   
 <a href="https://github.com/mcsadri/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=mcsadri&show_icons=true&theme=github_dark_dimmed&card_width=800" />
-</a><img href="https://github.com/mcsadri/github-readme-stats">
-<src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=github_dark_dimmed&card_width=800&langs_count=10&layout=compact">
+</a><a href="https://github.com/mcsadri/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=github_dark_dimmed&card_width=800&langs_count=10&layout=compact">
   
   
 <!-- ### Hi there 👋-->
