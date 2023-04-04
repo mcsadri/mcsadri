@@ -3,10 +3,10 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=mcsadri)](https://git.io/streak-stats)-->
 
 <a href="https://github.com/mcsadri/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsadri&show_icons=true&theme=midnight-purple&card_width=800" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsadri&show_icons=true&theme=dark&card_width=800" />
 </a>
 <a href="https://github.com/mcsadri/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=midnight-purple&card_width=800&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=dark&card_width=800&langs_count=10">
 
 <!-- ### Hi there 👋-->
 
