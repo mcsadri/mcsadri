@@ -1,7 +1,3 @@
-<!--[![mcsadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcsadri)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=mcsadri)](https://git.io/streak-stats)-->
-
 <a href="https://github.com/mcsadri/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsadri&show_icons=true&theme=github_dark_dimmed&card_width=800" />
 </a>
