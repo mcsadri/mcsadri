@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/mcsadri/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=github_dark_dimmed&langs_count=10&layout=compact" alt="mcsadri's most used languages graph">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsadri&theme=github_dark_dimmed&langs_count=8&layout=compact" alt="mcsadri's most used languages graph">
 </a>
 
 <!-- ### Hi there 👋-->
